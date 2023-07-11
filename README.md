@@ -3,25 +3,27 @@ Plataforma de gobernanza digital descentralizada
 
 ---
 
-¡Bienvenidos a Cyclo, una nueva forma de cooperar, colaborar y crecer juntos!
+Bienvenidos a Cyclo
 
-Aquí, creemos en la fuerza de la comunidad, en la poderosa sinergia de la cooperación y en la profunda sabiduría que surge del diálogo constructivo. La nuestra es una comunidad basada en la igualdad, la transparencia y el respeto mutuo. Cada voz importa, cada contribución cuenta, cada idea tiene el potencial de convertirse en un catalizador para el cambio.
+En Cyclo, creemos en el poder de la comunidad. Nuestra plataforma te permite organizar tu grupo u organización en una estructura dinámica y cíclica que evoluciona constantemente para adaptarse a tus necesidades.
 
-El Manifiesto de Cyclo establece nuestra visión y nuestros valores centrales:
+Primera etapa: Decisión Centralizada
 
-*Cooperación*: Nos unimos en una búsqueda común de crecimiento y aprendizaje. Cada miembro aporta sus habilidades únicas y perspectivas, enriqueciendo nuestra comunidad con una diversidad de pensamientos y experiencias.
+Empieza tu viaje en Cyclo con un rol centralizado de liderazgo. Aquí, un usuario responsable (el Iniciador) toma las decisiones iniciales y define el rumbo para todo el grupo. Esta etapa proporciona un inicio sólido y una dirección clara.
 
-*Democracia*: Todas las decisiones importantes son tomadas colectivamente. Cada miembro tiene voz y voto en todas las cuestiones que afectan a nuestra comunidad.
+Segunda etapa: Coordinación de Comité
 
-*Transparencia*: Toda nuestra actividad es abierta y accesible para todos los miembros. Creemos en la honestidad, la integridad y la rendición de cuentas.
+A medida que tu grupo crece y evoluciona, Cyclo se adapta contigo. Cuando tu comunidad lo decida, podrás pasar a la etapa de Coordinación de Comité, donde un grupo seleccionado de usuarios (el Comité) toma las decisiones. Esto permite la diversidad y la colaboración en el proceso de toma de decisiones.
 
-*Respeto*: Valoramos a cada miembro y reconocemos su contribución a la comunidad. Nos tratamos con amabilidad, consideración y respeto mutuo.
+Tercera etapa: Decisión Colectiva
 
-*Innovación*: Estamos comprometidos con el aprendizaje constante, la mejora continua y la exploración de nuevas ideas. Acogemos el cambio como una oportunidad para aprender y crecer.
+Finalmente, Cyclo te permite activar la Decisión Colectiva, donde cada miembro tiene voz y voto. En esta etapa, las decisiones se toman a través de un proceso de votación democrática, asegurando que todos sean escuchados.
 
-A través de Cyclo, nos esforzamos por crear un espacio donde cada miembro pueda florecer y contribuir a su máximo potencial. Nuestra misión es facilitar la cooperación eficiente, promover el diálogo constructivo y nutrir un sentido de comunidad y pertenencia.
+Cambio constante: El Botón de Revisión
 
-Cyclo
+Cyclo está diseñado para cambiar y adaptarse a medida que tu grupo lo hace. Con nuestro Botón de Revisión, los usuarios pueden solicitar un cambio en el sistema de gobernanza cuando lo consideren necesario. Si más de la mitad del grupo está de acuerdo, Cyclo se adapta automáticamente y pasa a la siguiente etapa de gobernanza.
 
+Unete a Cyclo hoy
 
+Sea cual sea el tamaño o el propósito de tu grupo, Cyclo te proporciona las herramientas para una gobernanza eficaz y adaptativa. Únete a Cyclo hoy y descubre cómo podemos ayudarte a llevar tu comunidad al siguiente nivel.
 
